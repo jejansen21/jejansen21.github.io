@@ -2,12 +2,14 @@ project:
   type: website
   output-dir: docs
 
-website:
+website: 
   title: "jejansen21.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects & Publications
       - about.qmd
 
 format:
