@@ -1,9 +1,9 @@
 ---
 title: "Jane Roe"
-image: media/headshot.jpeg
+image: media/IMG_5235.jpg
 toc: false
 about: 
-  template: jolla
+  template: journal
   image-shape: round
   image-width: 17em
   links:
