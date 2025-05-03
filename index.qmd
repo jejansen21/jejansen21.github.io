@@ -1,5 +1,5 @@
 ---
-title: "Jane Roe"
+title: "Johanna Jansen"
 image: media/IMG_5235.jpg
 toc: false
 about: 
@@ -8,9 +8,9 @@ about:
   image-width: 17em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/joseninom/
+      href: 
     - text: GitHub
-      href: https://github.com/josenino95
+      href: https://www.linkedin.com/in/johanna-jansen-56a2b72b3/
     - text: Email
       href: mailto:jose_nino@ucsb.edu
 ---
