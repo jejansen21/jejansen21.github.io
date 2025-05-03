@@ -8,7 +8,7 @@ about:
   image-width: 17em
   links:
     - text: LinkedIn
-      href: 
+      href: https://www.linkedin.com/in/johanna-jansen-56a2b72b3/
     - text: GitHub
       href: https://www.linkedin.com/in/johanna-jansen-56a2b72b3/
     - text: Email
