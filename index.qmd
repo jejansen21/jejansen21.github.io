@@ -3,7 +3,7 @@ title: "Johanna Jansen"
 image: media/IMG_5235.jpg
 toc: false
 about: 
-  template: journal
+  template: trestles
   image-shape: round
   image-width: 17em
   links:
