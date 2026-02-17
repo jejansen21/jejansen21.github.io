@@ -10,7 +10,7 @@ website:
         text: Home
       - href: projects.qmd
         text: Experience and Publications
-      - href: media/Resume - Google Docs.pdf
+      - href: Resume (Jansen, Johanna).pdf
         text: CV
 
 format:
