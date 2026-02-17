@@ -15,4 +15,4 @@ about:
       href: jejansen@ucsb.edu
 ---
 
-Hi, I’m Johanna Jansen! I’m a a 4th-year Statistics and Data Science student at UC Santa Barbara, graduating in June 2026. I love to hike, read books, and learn new things. Currently, I am a Data Analyst for the Daily Nexus, Undergraduate Learning Assistant, and an Assistant Statistics & Data Science Program Coordinator for the UCSB PSTAT Department. Additionally, I am a Data Science Researcher for the Soojin Yi Lab.
+Hi, I’m Johanna Jansen! I’m a a 4th-year Statistics and Data Science student at UC Santa Barbara, graduating in June 2026. I love to hike, read books, and learn new things. Currently, I am a Data Analyst for the Daily Nexus, Undergraduate Learning Assistant, and an Assistant Statistics & Data Science Program Coordinator for the UCSB PSTAT Department. Additionally, I conduct comparitive genomic and epigenomic analysis as a Data Science Researcher for the Soojin Yi Lab.
