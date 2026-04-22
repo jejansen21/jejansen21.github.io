@@ -17,9 +17,11 @@ title: "Experience and Publications"
    - Interpret complicated data for accessibility of non-scientific readers
 
 3. **Data Science Researcher - Soojin Yi Lab**  
-   - Analyze sequence composition to understand biological diversity utilizing R and Python
-   - Utilize dynamic programming to analyze and map the DNA sequences of 117 species
-   - Investigate DNA methylation and functional differences in invertebrate animals
+   - Analyze genome sequence composition to understand biological diversity utilizing R and
+Python
+   - Construct and test phylogenetic relationships across species using Bayesian and     maximum likelihood models
+   - Utilize Gaussian Mixture Models for probabilistic classification and summarization of methylation presence in genes
+- Investigate DNA methylation and functional differences in invertebrate animals
 
 4. **Undergraduate Learning Assistant - UC Santa Barbara PSTAT and Computer Science Department**  
    - Hold office hours for 250+ students, clearly communicating complex technical concepts
@@ -29,10 +31,10 @@ title: "Experience and Publications"
 
 5. **Assistant Statistics & Data Science Program Coordinator - UC Santa Barbara PSTAT Department**  
    - Designed and developed the department’s scholarship website, improving accessibility of program and application information
-   - Organized and maintained structured event records, inventories, and administrative datasets for efficient planning and reporting
-   - Created marketing and outreach materials using Canva and Adobe Suite to support student engagement and program visibility
-   - Coordinated logistics and operations for student programs through managing timelines, vendor communication, and resource
-     allocation across multiple events
+   - Automate data processing and workflow tasks using R/Python to improve efficiency and reduce manual workload across projects
+   - Analyze event data and participant feedback to evaluate program effectiveness and inform improvements
+   - Generate reports and summary statistics on attendance, engagement, and outcomes to support data-driven decision-making
+- Organized and maintained structured event records and administrative datasets for efficient planning and reporting
 
 6. **UI/UX Designer - SB Creative Lab**  
    - Developed mobile application for Blender's smoothie chain by integrating customer data insights to enhance user experience and
