@@ -21,7 +21,7 @@ title: "Experience and Publications"
 Python
    - Construct and test phylogenetic relationships across species using Bayesian and     maximum likelihood models
    - Utilize Gaussian Mixture Models for probabilistic classification and summarization of methylation presence in genes
-- Investigate DNA methylation and functional differences in invertebrate animals
+   - Investigate DNA methylation and functional differences in invertebrate animals
 
 4. **Undergraduate Learning Assistant - UC Santa Barbara PSTAT and Computer Science Department**  
    - Hold office hours for 250+ students, clearly communicating complex technical concepts
